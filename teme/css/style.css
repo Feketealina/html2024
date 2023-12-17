@@ -1,0 +1,18 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    background-color: #F6F6FA;
+    display: flex;
+    -ms-flex-align: center;
+}
+ul{
+    margin-left: 20px;
+    background-color: red;
+    height: 100%;
+    
+}
+
+
+.div2{
+    margin: auto;
+    margin: 20px 100px;
+}
